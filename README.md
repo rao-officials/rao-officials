@@ -39,10 +39,10 @@
 ### **How to Reach Me**:
 
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(50px, 1fr)); gap: 15px; justify-items: center;">
-  <a href="mailto:haseebrao@example.com">
+  <a href="mailto:rao.officials@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/your-profile">
+  <a href="https://www.linkedin.com/in/haseebghaffar-frontend-developer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
